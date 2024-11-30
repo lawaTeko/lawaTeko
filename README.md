@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm lawaTeko</h1>
-<h3 align="center">Someone who is passionate about the world of networking but also wants to learn programming. :)</h3>
+<h3 align="center">Someone who is passionate about the world of networking but also wants to learn programming.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
